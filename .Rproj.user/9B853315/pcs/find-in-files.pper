@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/Desktop/CodeClan/Codeclan_work/Live_Projects",
+        "query" : "pivot_longer",
+        "regex" : false
+    }
+}
